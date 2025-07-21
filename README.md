@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madhavareddyrb
-- 👀 I’m interested in web development
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning web development skills like html,css,javascript,django
 - 💞️ I’m looking to collaborate on everyone who is intrested in web development
 - 📫 How to reach me https://www.linkedin.com/in/madhavareddyrb/  
