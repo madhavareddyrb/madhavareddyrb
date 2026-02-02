@@ -1,5 +1,5 @@
-- 👋  Hi, I’m @madhavareddyrb
-- --   Python Developer | Building full-stack apps with Django, REST APIs, and PostgreSQL | Learning & sharing code | Open to collaborations 🚀
+- 👋  Hi, I’m @madhavareddy
+- - --   Frontend | Javascript | MERN | Reac Js | Node Js
 - 📫  How to reach me https://www.linkedin.com/in/madhavareddyrb/  
 
 <!---
