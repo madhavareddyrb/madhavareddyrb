@@ -38,10 +38,6 @@
 - 💼 LinkedIn: https://linkedin.com/in/madhavareddyrb
 - 📧 Email: madhavareddyrb@gmail.com
 
----
-
-## ⚡ Fun Fact
-I love solving real-world problems using code and continuously improving my skills 🚀
 
 <!---
 madhavareddyrb/madhavareddyrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
