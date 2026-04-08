@@ -8,7 +8,7 @@
 - 🌱 Currently learning advanced backend & system design
 - 🔐 Strong in Authentication (JWT, Role-based access)
 - 🚀 Interested in building real-world scalable applications
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: https://linkedin.com/in/madhavareddyrb
 
 ---
 
