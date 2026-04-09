@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Madhava</h1>
 <h3 align="center">Full Stack Developer (MERN) | Building Scalable Web Apps</h3>
 
----
-
 ## 👨‍💻 About Me
 - 💻 I am a Full Stack Developer (Fresher)
 - 🌱 Currently learning advanced backend & system design
 - 🔐 Strong in Authentication (JWT, Role-based access)
 - 🚀 Interested in building real-world scalable applications
 - 📫 Reach me: https://linkedin.com/in/madhavareddyrb
-
----
-
+- 
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
@@ -30,8 +26,6 @@
 ### 🔐 Authentication
 - JWT (JSON Web Tokens)
 - Role-Based Access Control
-
----
 
 ## 🔗 Connect With Me
 
